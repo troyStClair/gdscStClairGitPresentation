@@ -1,1 +1,15 @@
 Hello from Jaahanava Joshi, Dharmil Gandhi, Priyal Patel and Kaival Patel.
+
+Jaahanava Joshi
+jaahanavajoshi@gmail.com
+
+Dharmil Gandhi
+dharmilgandhi007@gmail.com
+
+Priyal Patel
+priyalpatelasd@gmail.com
+
+Kaival Patel
+kaivalpatel97@gmail.com
+
+We are here to learn more about git and make connections with fellow developers.
